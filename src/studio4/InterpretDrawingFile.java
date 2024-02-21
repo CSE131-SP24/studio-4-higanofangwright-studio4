@@ -36,6 +36,18 @@ public class InterpretDrawingFile {
 		
 		
 		
+		
+		//while (in.hasNextDouble() == true) {
+		//	for (int i = 0; 
+			
+		//		array[i] = in.nextDouble();
+			
+			
+		//}
+		
+		
+		
+		
 		Color color = new Color(R, G, B);
 
 		
